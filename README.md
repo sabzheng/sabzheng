@@ -4,7 +4,7 @@
 <br>💡Currently:  Reviewing DSA, Leetcode, Personal Full Stack Project.
 <br>❤️ Loves Photography, Travel, and Food.
 <br>⏳ Always ready to learn new skills and meet new people. <br><br>
-<br><br>
+<br>
 
 
 ## 🌐 Socials:
