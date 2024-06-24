@@ -1,10 +1,10 @@
 # 💫 About Me:
-<br>👩‍💻 I'm Software Engineering who is interested in Full Stack Development and ML/AI.
+👩‍💻 I'm Software Engineering who is interested in Full Stack Development and ML/AI.
 <br>👩‍🎓 Studied Computer Science and Applied Mathematics at Stony Brook University, NY.
 <br>💡Currently:  Reviewing DSA, Leetcode, Personal Full Stack Project.
 <br>❤️ Loves Photography, Travel, and Food.
 <br>⏳ Always ready to learn new skills and meet new people. <br>
-## 🌐 Socials:
+## 🌐 Let's get Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabrina-zheng0/) 
 
 # 💻 Tech Stack:
