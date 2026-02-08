@@ -1,9 +1,9 @@
 <h2 align="left">
-  <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Hi there! I am Sabrina Zheng, Full Stack Developer.
+  <br><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">Hi there! I am Sabrina Zheng, Full Stack Developer, AI Engineer, Data Analyst.
 </h2>
 
 ## 💫 About Me:
-👩‍💻 I'm Software Engineering who is interested in Full Stack Development and ML/AI.
+👩‍💻 I'm Software Engineering who is interested in Full Stack Development, Data Science, and ML/AI.
 <br>👩‍🎓 Studied Computer Science and Applied Mathematics at Stony Brook University, NY.
 <br>💡Currently:  Reviewing DSA, Leetcode, Personal Full Stack Project.
 <br>❤️ Loves Photography, Travel, and Food.
