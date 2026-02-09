@@ -9,7 +9,8 @@
 <br>💡Currently:  Reviewing DSA, Leetcode, Personal Full Stack Project.
 <br>❤️ Loves Photography, Travel, and Food.
 <br>⏳ Always ready to learn new skills and meet new people. <br>
-## 🌐 Let's get Connected:
+
+## 🌐 Let's get connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabrina-zheng0/) 
 
 ## 💻 Tech Stack:
